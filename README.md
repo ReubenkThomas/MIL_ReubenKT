@@ -1,3 +1,7 @@
+# About
+
+Mathematics in Lean is a tutorial for using lean to prove mathematical statements in the LEAN Proof Assistant framework, exploring elementary mathematical concepts through LEAN. I'm using this to get reacquainted with LEAN for various mathematical automation projects. Keeping this repository mainly for version control. I do not claim this as my own work. 
+
 # Mathematics in Lean
 
 This tutorial depends on Lean 4, VS Code, and Mathlib.
